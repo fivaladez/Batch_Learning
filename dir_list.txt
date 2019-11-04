@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0A8D-9DE2
+
+ Directory of C:\Users\ivaladez\Documents\OwnDocs\Batch_Learning
+
+11/04/2019  05:04 PM    <DIR>          .
+11/04/2019  05:04 PM    <DIR>          ..
+11/04/2019  11:20 AM               746 01_Overview.bat
+11/04/2019  04:55 PM               502 02_Commands.bat
+11/04/2019  05:03 PM               146 03_Syntax.bat
+11/04/2019  11:15 AM            51,362 Command Prompt Cheatsheet.pdf
+11/04/2019  03:36 PM             5,731 commands_Windows.txt
+11/04/2019  05:05 PM                 0 dir_list.txt
+11/04/2019  10:52 AM                17 README.md
+               7 File(s)         58,504 bytes
+               2 Dir(s)  38,493,122,560 bytes free
