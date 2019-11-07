@@ -45,8 +45,8 @@ set obj[1].ID=2
 set obj[2].Name=Mohan 
 set obj[2].ID=3 
 set i=0 
-:loop 
 
+:loop 
 if %i% equ %len% goto :eof 
 set cur.Name= 
 set cur.ID=
